@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## COOKBOOK 01
+=======
+
+>>>>>>> d9500542fc32cc03053793bf42cf507f4fb93ee7
 ## Create a user with specific roles to do operations on cluster
 
 
